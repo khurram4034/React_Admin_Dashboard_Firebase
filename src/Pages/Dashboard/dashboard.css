@@ -1,0 +1,21 @@
+.heading {
+    font-size: 28px;
+    font-weight: 400;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.heading_sub {
+    display: flex;
+    justify-content: left;
+    text-align: center;
+    background-color: #7b7d7e;
+    height: 42px;
+    color: white;
+
+}
+
+.dashboard_button {
+    padding: 10px;
+}
